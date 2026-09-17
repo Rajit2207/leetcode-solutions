@@ -10,3 +10,4 @@
 | 17/09 | Binary Search | Basic Algorithms | Easy-Medium | ☑ Solved | 10 min |
 | 17/09 | Move Zeroes | Basic Algorithms | Easy-Medium | ☑ Solved | 10 min |
 | 17/09 | Valid Parentheses | Stacks | Easy-Medium | ☑ Solved | 15 min |
+| 17/09 | Reverse a Linked List | Linked Lists | Easy-Medium | ☑ Solved | 10 min |
